@@ -1,0 +1,1064 @@
+window.FIREFLY_CATALOG = {
+  "updated": "2026-09-18",
+  "categories": [
+    {
+      "slug": "tables",
+      "name": "Tables",
+      "image": "assets/home-5.jpeg"
+    },
+    {
+      "slug": "seating",
+      "name": "Chairs & seating",
+      "image": "assets/home-6.jpg"
+    },
+    {
+      "slug": "tents",
+      "name": "Tents",
+      "image": "assets/home-7.jpg"
+    },
+    {
+      "slug": "dance-floo",
+      "name": "Dance floors",
+      "image": "assets/home-8.jpeg"
+    },
+    {
+      "slug": "lighting",
+      "name": "Lighting",
+      "image": "assets/home-9.webp"
+    },
+    {
+      "slug": "table-linens",
+      "name": "Linens",
+      "image": "assets/home-10.jpg"
+    },
+    {
+      "slug": "backdrops",
+      "name": "Backdrops",
+      "image": "assets/home-11.webp"
+    },
+    {
+      "slug": "games",
+      "name": "Games",
+      "image": "assets/home-14.png"
+    },
+    {
+      "slug": "sound-system",
+      "name": "Audio & visual",
+      "image": "assets/home-15.jpeg"
+    },
+    {
+      "slug": "decor",
+      "name": "Decor",
+      "image": "assets/home-16.jpeg"
+    }
+  ],
+  "products": [
+    {
+      "slug": "wood-farmhouse-foldable-tables",
+      "name": "Wood Farmhouse Foldable Tables",
+      "categories": [
+        "tables"
+      ],
+      "price": "$55.00",
+      "period": "1 day",
+      "url": "https://fireflyeventrentals.com/products/wood-farmhouse-foldable-tables",
+      "imageSource": "https://images.booqablecdn.com/w535/uploads/7c61adefd8c9c90708e663e05739a238/photo/photo/55ed4698-a1ef-46d8-8006-26b6f81ca774/1710219572-142211607494544-0524-9064/71nKIfHRQYL.jpg.webp",
+      "image": "assets/catalog/wood-farmhouse-foldable-tables.webp"
+    },
+    {
+      "slug": "5-foot-round-table",
+      "name": "5 Foot Round Table (seat 8)",
+      "categories": [
+        "tables"
+      ],
+      "price": "$9.00",
+      "period": "1 day",
+      "url": "https://fireflyeventrentals.com/products/5-foot-round-table",
+      "imageSource": "https://images.booqablecdn.com/w535/uploads/7c61adefd8c9c90708e663e05739a238/photo/photo/82232025-8893-4ed7-9360-195ece8e95b9/1707400272-369846951284320-0055-4008/61YTnBdfQjL.jpg.webp",
+      "image": "assets/catalog/5-foot-round-table.webp"
+    },
+    {
+      "slug": "6-foot-rectangle",
+      "name": "6 Foot Rectangle Table",
+      "categories": [
+        "tables"
+      ],
+      "price": "$8.00",
+      "period": "1 day",
+      "url": "https://fireflyeventrentals.com/products/6-foot-rectangle",
+      "imageSource": "https://images.booqablecdn.com/uploads/7c61adefd8c9c90708e663e05739a238/photo/photo/a82729e5-ed47-46a4-bc27-794eddd513f1/1707400549-304415483795704-0002-3778/6-feet-table.png",
+      "image": "assets/catalog/6-foot-rectangle.png"
+    },
+    {
+      "slug": "6-foot-round-table",
+      "name": "6 Foot Round Table (seat 10)",
+      "categories": [
+        "tables"
+      ],
+      "price": "$15.00",
+      "period": "1 day",
+      "url": "https://fireflyeventrentals.com/products/6-foot-round-table",
+      "imageSource": "https://images.booqablecdn.com/w535/uploads/7c61adefd8c9c90708e663e05739a238/photo/photo/28278604-e902-4901-a8c1-b9056291b762/1707400390-722492583549028-0001-3409/60-round-heavy-duty-birchwood-folding-banquet-table-with-metal-edges-xa-60-birch-m-gg-5__67423.jpg.webp",
+      "image": "assets/catalog/6-foot-round-table.webp"
+    },
+    {
+      "slug": "serpentine-table-2fa5a26e-5bd3-4480-b52b-6f9ea382d484",
+      "name": "Serpentine Table",
+      "categories": [
+        "tables"
+      ],
+      "price": "$10.00",
+      "period": "1 day",
+      "url": "https://fireflyeventrentals.com/products/serpentine-table-2fa5a26e-5bd3-4480-b52b-6f9ea382d484",
+      "imageSource": "https://images.booqablecdn.com/uploads/7c61adefd8c9c90708e663e05739a238/photo/photo/ce085992-25c2-439e-b983-5b5d0a69592c/sepertin_.jpeg",
+      "image": "assets/catalog/serpentine-table-2fa5a26e-5bd3-4480-b52b-6f9ea382d484.jpeg"
+    },
+    {
+      "slug": "3-foot-round-table",
+      "name": "3 foot round table",
+      "categories": [
+        "tables"
+      ],
+      "price": "$10.00",
+      "period": "1 day",
+      "url": "https://fireflyeventrentals.com/products/3-foot-round-table",
+      "imageSource": "https://images.booqablecdn.com/w535/uploads/7c61adefd8c9c90708e663e05739a238/photo/photo/b34ba902-ae6f-4669-a7c3-ba173c9cfe8c/1732130850-196278402087473-0094-0380/upload.jpeg.webp",
+      "image": "assets/catalog/3-foot-round-table.webp"
+    },
+    {
+      "slug": "cocktail-table-high-boy-foldable",
+      "name": "Cocktail Table High Boy FOLDABLE 32''x42''",
+      "categories": [
+        "tables"
+      ],
+      "price": "$8.00",
+      "period": "1 day",
+      "url": "https://fireflyeventrentals.com/products/cocktail-table-high-boy-foldable",
+      "imageSource": "https://images.booqablecdn.com/w535/uploads/7c61adefd8c9c90708e663e05739a238/photo/photo/a57cc364-0299-4703-94cb-7ee9e47b453f/1709002313-115494507823560-0032-9238/upload.jpeg.webp",
+      "image": "assets/catalog/cocktail-table-high-boy-foldable.webp"
+    },
+    {
+      "slug": "soda-drink-bar",
+      "name": "Soda/Drink Bar",
+      "categories": [
+        "tables",
+        "decor"
+      ],
+      "price": "$100.00",
+      "period": "1 day",
+      "url": "https://fireflyeventrentals.com/products/soda-drink-bar",
+      "imageSource": "https://images.booqablecdn.com/w535/uploads/7c61adefd8c9c90708e663e05739a238/photo/photo/9f0b1cae-46cf-47e5-b818-154c1ac96a58/1716237857-724529352763689-0099-6387/upload.jpeg.webp",
+      "image": "assets/catalog/soda-drink-bar.webp"
+    },
+    {
+      "slug": "small-banquet-ta",
+      "name": "Small Banquet Table",
+      "categories": [
+        "tables"
+      ],
+      "price": "$8.00",
+      "period": "1 day",
+      "url": "https://fireflyeventrentals.com/products/small-banquet-ta",
+      "imageSource": "https://images.booqablecdn.com/w535/uploads/7c61adefd8c9c90708e663e05739a238/photo/photo/c181a546-2c0d-4907-8297-3443aee2b8a9/1735871501-261144922227238-0204-1070/upload.jpeg.webp",
+      "image": "assets/catalog/small-banquet-ta.webp"
+    },
+    {
+      "slug": "umbrella-tables",
+      "name": "4 foot Umbrella Tables",
+      "categories": [
+        "tables"
+      ],
+      "price": "$8.00",
+      "period": "1 day",
+      "url": "https://fireflyeventrentals.com/products/umbrella-tables",
+      "imageSource": "https://images.booqablecdn.com/w535/uploads/7c61adefd8c9c90708e663e05739a238/photo/photo/51ec431c-0f52-4d4b-ae8b-e9a9620a1487/7e4fe36b-8688-415f-90be-e9e80f9ef889.png.webp",
+      "image": "assets/catalog/umbrella-tables.webp"
+    },
+    {
+      "slug": "brown-resin-folding-chair",
+      "name": "Brown Resin Folding Chair",
+      "categories": [
+        "seating"
+      ],
+      "price": "$2.45",
+      "period": "1 day",
+      "url": "https://fireflyeventrentals.com/products/brown-resin-folding-chair",
+      "imageSource": "https://images.booqablecdn.com/w535/uploads/7c61adefd8c9c90708e663e05739a238/photo/photo/d627df37-c7d8-4eed-a155-99b1ce8468ad/1730914496-986535214207251-0031-2573/51UuY6lCrwS.jpg.webp",
+      "image": "assets/catalog/brown-resin-folding-chair.webp"
+    },
+    {
+      "slug": "resin-white-wood-chair",
+      "name": "White Resin Chair",
+      "categories": [
+        "seating"
+      ],
+      "price": "$2.45",
+      "period": "1 day",
+      "url": "https://fireflyeventrentals.com/products/resin-white-wood-chair",
+      "imageSource": "https://images.booqablecdn.com/w535/uploads/7c61adefd8c9c90708e663e05739a238/photo/photo/681609dd-dc71-42b1-80bf-c025a2deae36/white_wood_chair__resin_-1.jpg.webp",
+      "image": "assets/catalog/resin-white-wood-chair.webp"
+    },
+    {
+      "slug": "white-plastic-folding-chair",
+      "name": "White Plastic Folding Chair",
+      "categories": [
+        "seating"
+      ],
+      "price": "$1.45",
+      "period": "1 day",
+      "url": "https://fireflyeventrentals.com/products/white-plastic-folding-chair",
+      "imageSource": "https://images.booqablecdn.com/w535/uploads/7c61adefd8c9c90708e663e05739a238/photo/photo/0480eb81-0279-4548-96d2-3619ea290fa7/41nwF-OVmFS.jpg.webp",
+      "image": "assets/catalog/white-plastic-folding-chair.webp"
+    },
+    {
+      "slug": "black-plastic-folding-chair",
+      "name": "Black Plastic Folding Chair",
+      "categories": [
+        "seating"
+      ],
+      "price": "$1.45",
+      "period": "1 day",
+      "url": "https://fireflyeventrentals.com/products/black-plastic-folding-chair",
+      "imageSource": "https://images.booqablecdn.com/uploads/7c61adefd8c9c90708e663e05739a238/photo/photo/e97f39a3-f06d-4a15-a66b-b77bc717ef37/1746043531-526297736352587-0005-4993/upload.webp",
+      "image": "assets/catalog/black-plastic-folding-chair.webp"
+    },
+    {
+      "slug": "pink-couch",
+      "name": "Pink Couch",
+      "categories": [
+        "seating",
+        "decor"
+      ],
+      "price": "$50.00",
+      "period": "1 day",
+      "url": "https://fireflyeventrentals.com/products/pink-couch",
+      "imageSource": "https://images.booqablecdn.com/w535/uploads/7c61adefd8c9c90708e663e05739a238/photo/photo/e58c263b-9674-4ded-a67e-8982cda1d751/1741883111-400303399441866-0024-4387/upload.jpeg.webp",
+      "image": "assets/catalog/pink-couch.webp"
+    },
+    {
+      "slug": "futon-couch",
+      "name": "Futon Couch",
+      "categories": [
+        "seating"
+      ],
+      "price": "$50.00",
+      "period": "1 day",
+      "url": "https://fireflyeventrentals.com/products/futon-couch",
+      "imageSource": "https://images.booqablecdn.com/w535/uploads/7c61adefd8c9c90708e663e05739a238/photo/photo/97ee375d-f192-4a3d-a24f-fe2a3a9c0357/upload.jpeg.webp",
+      "image": "assets/catalog/futon-couch.webp"
+    },
+    {
+      "slug": "wood-resin-folding-chair",
+      "name": "Wood Resin Folding Chair",
+      "categories": [
+        "seating"
+      ],
+      "price": "$3.00",
+      "period": "1 day",
+      "url": "https://fireflyeventrentals.com/products/wood-resin-folding-chair",
+      "imageSource": "https://images.booqablecdn.com/uploads/7c61adefd8c9c90708e663e05739a238/photo/photo/56b9d8d7-7d88-472c-af22-83ad9ec3d9e6/upload.jpeg",
+      "image": "assets/catalog/wood-resin-folding-chair.jpeg"
+    },
+    {
+      "slug": "directors-chair-black",
+      "name": "Directors Chair Black",
+      "categories": [
+        "seating"
+      ],
+      "price": "$30.00",
+      "period": "1 day",
+      "url": "https://fireflyeventrentals.com/products/directors-chair-black",
+      "imageSource": "https://images.booqablecdn.com/w535/uploads/7c61adefd8c9c90708e663e05739a238/photo/photo/91394d6b-b178-45b2-b3c0-7e0c5f0c1114/black-frame-black-canvas-american-trails-folding-chairs-n206-32-032-15-64_600.jpg.webp",
+      "image": "assets/catalog/directors-chair-black.webp"
+    },
+    {
+      "slug": "10-x-10-canopy",
+      "name": "10 x 10 canopy",
+      "categories": [
+        "tents"
+      ],
+      "price": "$25.00",
+      "period": "1 day",
+      "url": "https://fireflyeventrentals.com/products/10-x-10-canopy",
+      "imageSource": "https://images.booqablecdn.com/w535/uploads/7c61adefd8c9c90708e663e05739a238/photo/photo/d9cce9ba-5864-43ea-a90e-bded67029f61/1711648056-121207122778476-0130-3594/16QUEUQ10010X10CMODR_White-4.jpg.webp",
+      "image": "assets/catalog/10-x-10-canopy.webp"
+    },
+    {
+      "slug": "10x30-canopy-tent",
+      "name": "10x30 Canopy/Tent",
+      "categories": [
+        "tents"
+      ],
+      "price": "$75.00",
+      "period": "1 day",
+      "url": "https://fireflyeventrentals.com/products/10x30-canopy-tent",
+      "imageSource": "https://images.booqablecdn.com/w535/uploads/7c61adefd8c9c90708e663e05739a238/photo/photo/e99d2040-4645-4429-98e1-029b8db4dfd1/IMG_2101.jpeg.webp",
+      "image": "assets/catalog/10x30-canopy-tent.webp"
+    },
+    {
+      "slug": "drape-tent-20x40",
+      "name": "Drape Tent 20x40",
+      "categories": [
+        "tents"
+      ],
+      "price": "$420.00",
+      "period": "1 day",
+      "url": "https://fireflyeventrentals.com/products/drape-tent-20x40",
+      "imageSource": "https://images.booqablecdn.com/w535/uploads/7c61adefd8c9c90708e663e05739a238/photo/photo/09311493-292c-4f0d-9b71-5da481793de9/683bb01b-dbb0-4b30-bf77-c936c86fb23d.png.webp",
+      "image": "assets/catalog/drape-tent-20x40.webp"
+    },
+    {
+      "slug": "20x40",
+      "name": "20x40 Tent",
+      "categories": [
+        "tents"
+      ],
+      "price": "$320.00",
+      "period": "1 day",
+      "url": "https://fireflyeventrentals.com/products/20x40",
+      "imageSource": "https://images.booqablecdn.com/w535/uploads/7c61adefd8c9c90708e663e05739a238/photo/photo/d45b6e31-3fa4-4f4d-b311-96dbc70ca932/IMG_2532.jpeg.webp",
+      "image": "assets/catalog/20x40.webp"
+    },
+    {
+      "slug": "drape-tent-set-up-take-down-on-grass",
+      "name": "Drape Tent Set Up/Take Down on grass",
+      "categories": [
+        "tents"
+      ],
+      "price": "$350.00",
+      "period": "Buy for",
+      "url": "https://fireflyeventrentals.com/products/drape-tent-set-up-take-down-on-grass",
+      "imageSource": "https://images.booqablecdn.com/w535/uploads/7c61adefd8c9c90708e663e05739a238/photo/photo/bc41e2fc-5bce-42e6-bbbf-bd2c09b2c906/6221d4f4-a2db-4c73-9f48-80112aed9040.png.webp",
+      "image": "assets/catalog/drape-tent-set-up-take-down-on-grass.webp"
+    },
+    {
+      "slug": "umbrellas-for-tables",
+      "name": "Ivory 10 foot Umbrella",
+      "categories": [
+        "tents"
+      ],
+      "price": "$25.00",
+      "period": "1 day",
+      "url": "https://fireflyeventrentals.com/products/umbrellas-for-tables",
+      "imageSource": "https://images.booqablecdn.com/w535/uploads/7c61adefd8c9c90708e663e05739a238/photo/photo/31412796-9079-4a53-a718-07969bc2b6f2/c838689f-d83f-4c0b-b22a-0cfaa1779477.png.webp",
+      "image": "assets/catalog/umbrellas-for-tables.webp"
+    },
+    {
+      "slug": "20x20-soft-surface-with-set-up",
+      "name": "20x20 Soft Surface With Set Up",
+      "categories": [
+        "dance-floo"
+      ],
+      "price": "$800.00",
+      "period": "1 day",
+      "url": "https://fireflyeventrentals.com/products/20x20-soft-surface-with-set-up",
+      "imageSource": "https://images.booqablecdn.com/uploads/7c61adefd8c9c90708e663e05739a238/photo/photo/a4b31350-574a-45ec-b852-dd9f4d3e1934/cd34548a-bf1a-4b2e-8bdd-dc47a05a2e26_4_5005_c.jpeg",
+      "image": "assets/catalog/20x20-soft-surface-with-set-up.jpeg"
+    },
+    {
+      "slug": "test-checkered-dance-floor",
+      "name": "16x16 Soft Surface With Set Up",
+      "categories": [
+        "dance-floo"
+      ],
+      "price": "$640.00",
+      "period": "1 day",
+      "url": "https://fireflyeventrentals.com/products/test-checkered-dance-floor",
+      "imageSource": "https://images.booqablecdn.com/uploads/7c61adefd8c9c90708e663e05739a238/photo/photo/5a18150f-da3b-4a19-95d0-7bc5f1ee56c7/cd34548a-bf1a-4b2e-8bdd-dc47a05a2e26_4_5005_c.jpeg",
+      "image": "assets/catalog/test-checkered-dance-floor.jpeg"
+    },
+    {
+      "slug": "12x12-hard-surface-with-set-up",
+      "name": "12x12 Hard Surface With Set Up",
+      "categories": [
+        "dance-floo"
+      ],
+      "price": "$288.00",
+      "period": "1 day",
+      "url": "https://fireflyeventrentals.com/products/12x12-hard-surface-with-set-up",
+      "imageSource": "https://images.booqablecdn.com/uploads/7c61adefd8c9c90708e663e05739a238/photo/photo/dd7d87f7-0cfa-438c-9eed-ed77c2349aa8/978123d2-42b3-4e03-9252-c524a7fd0e7c_4_5005_c.jpeg",
+      "image": "assets/catalog/12x12-hard-surface-with-set-up.jpeg"
+    },
+    {
+      "slug": "20x20-soft-surface-diy",
+      "name": "20x20 Soft Surface DIY",
+      "categories": [
+        "dance-floo"
+      ],
+      "price": "$600.00",
+      "period": "1 day",
+      "url": "https://fireflyeventrentals.com/products/20x20-soft-surface-diy",
+      "imageSource": "https://images.booqablecdn.com/uploads/7c61adefd8c9c90708e663e05739a238/photo/photo/c77e8636-2b7b-4c55-bd56-a1685f7a6c45/cd34548a-bf1a-4b2e-8bdd-dc47a05a2e26_4_5005_c.jpeg",
+      "image": "assets/catalog/20x20-soft-surface-diy.jpeg"
+    },
+    {
+      "slug": "check-your-dance-floor-subfloor-and-set-up",
+      "name": "16x16 Soft Surface DIY",
+      "categories": [
+        "dance-floo"
+      ],
+      "price": "$384.00",
+      "period": "1 day",
+      "url": "https://fireflyeventrentals.com/products/check-your-dance-floor-subfloor-and-set-up",
+      "imageSource": "https://images.booqablecdn.com/uploads/7c61adefd8c9c90708e663e05739a238/photo/photo/2e18c7b4-81fd-4dea-be02-05b6db44b253/cd34548a-bf1a-4b2e-8bdd-dc47a05a2e26_4_5005_c.jpeg",
+      "image": "assets/catalog/check-your-dance-floor-subfloor-and-set-up.jpeg"
+    },
+    {
+      "slug": "20x20-hard-surface-with-set-up",
+      "name": "20x20 Hard Surface With Set Up",
+      "categories": [
+        "dance-floo"
+      ],
+      "price": "$600.00",
+      "period": "1 day",
+      "url": "https://fireflyeventrentals.com/products/20x20-hard-surface-with-set-up",
+      "imageSource": "https://images.booqablecdn.com/uploads/7c61adefd8c9c90708e663e05739a238/photo/photo/8218b305-1901-4610-a5a7-8bd60057b405/978123d2-42b3-4e03-9252-c524a7fd0e7c_4_5005_c.jpeg",
+      "image": "assets/catalog/20x20-hard-surface-with-set-up.jpeg"
+    },
+    {
+      "slug": "20x20-hard-surface-diy",
+      "name": "20x20 Hard Surface DIY",
+      "categories": [
+        "dance-floo"
+      ],
+      "price": "$400.00",
+      "period": "1 day",
+      "url": "https://fireflyeventrentals.com/products/20x20-hard-surface-diy",
+      "imageSource": "https://images.booqablecdn.com/uploads/7c61adefd8c9c90708e663e05739a238/photo/photo/4e99eea4-8965-4c0b-acc8-d2b20138774d/978123d2-42b3-4e03-9252-c524a7fd0e7c_4_5005_c.jpeg",
+      "image": "assets/catalog/20x20-hard-surface-diy.jpeg"
+    },
+    {
+      "slug": "16x16-hard-surfass-set-up",
+      "name": "16x16 Hard Surface With Set Up",
+      "categories": [
+        "dance-floo"
+      ],
+      "price": "$512.00",
+      "period": "1 day",
+      "url": "https://fireflyeventrentals.com/products/16x16-hard-surfass-set-up",
+      "imageSource": "https://images.booqablecdn.com/uploads/7c61adefd8c9c90708e663e05739a238/photo/photo/17d3e80c-fd78-4f75-ae74-dd9091c28eea/978123d2-42b3-4e03-9252-c524a7fd0e7c_4_5005_c.jpeg",
+      "image": "assets/catalog/16x16-hard-surfass-set-up.jpeg"
+    },
+    {
+      "slug": "16x16-diy",
+      "name": "16x16 Hard Surface DIY",
+      "categories": [
+        "dance-floo"
+      ],
+      "price": "$256.00",
+      "period": "1 day",
+      "url": "https://fireflyeventrentals.com/products/16x16-diy",
+      "imageSource": "https://images.booqablecdn.com/uploads/7c61adefd8c9c90708e663e05739a238/photo/photo/7564bef6-7970-41b2-9cfa-59e7b4e89ce3/978123d2-42b3-4e03-9252-c524a7fd0e7c_4_5005_c.jpeg",
+      "image": "assets/catalog/16x16-diy.jpeg"
+    },
+    {
+      "slug": "12x12-soft-surface-with-set-up",
+      "name": "12x12 Soft Surface With Set Up",
+      "categories": [
+        "dance-floo"
+      ],
+      "price": "$360.00",
+      "period": "1 day",
+      "url": "https://fireflyeventrentals.com/products/12x12-soft-surface-with-set-up",
+      "imageSource": "https://images.booqablecdn.com/uploads/7c61adefd8c9c90708e663e05739a238/photo/photo/16308994-998f-4f80-9ce6-dc9b45e5ca6d/cd34548a-bf1a-4b2e-8bdd-dc47a05a2e26_4_5005_c.jpeg",
+      "image": "assets/catalog/12x12-soft-surface-with-set-up.jpeg"
+    },
+    {
+      "slug": "12x12-soft-surface-diy",
+      "name": "12x12 Soft Surface DIY",
+      "categories": [
+        "dance-floo"
+      ],
+      "price": "$216.00",
+      "period": "1 day",
+      "url": "https://fireflyeventrentals.com/products/12x12-soft-surface-diy",
+      "imageSource": "https://images.booqablecdn.com/uploads/7c61adefd8c9c90708e663e05739a238/photo/photo/9c2ad56c-81f7-427b-a359-6bbcbeb53f34/cd34548a-bf1a-4b2e-8bdd-dc47a05a2e26_4_5005_c.jpeg",
+      "image": "assets/catalog/12x12-soft-surface-diy.jpeg"
+    },
+    {
+      "slug": "12x12-hard-surface-diy",
+      "name": "12x12 Hard Surface DIY",
+      "categories": [
+        "dance-floo"
+      ],
+      "price": "$144.00",
+      "period": "1 day",
+      "url": "https://fireflyeventrentals.com/products/12x12-hard-surface-diy",
+      "imageSource": "https://images.booqablecdn.com/uploads/7c61adefd8c9c90708e663e05739a238/photo/photo/3e36559f-15d7-43a3-a68d-b26cfaffdfc6/978123d2-42b3-4e03-9252-c524a7fd0e7c_4_5005_c.jpeg",
+      "image": "assets/catalog/12x12-hard-surface-diy.jpeg"
+    },
+    {
+      "slug": "cold-spark-machine",
+      "name": "Cold Spark Machine",
+      "categories": [
+        "lighting",
+        "sound-system"
+      ],
+      "price": "$75.00",
+      "period": "1 day",
+      "url": "https://fireflyeventrentals.com/products/cold-spark-machine",
+      "imageSource": "https://images.booqablecdn.com/w535/uploads/7c61adefd8c9c90708e663e05739a238/photo/photo/88bdc303-e4e2-433d-a0c7-18e967a83982/IMG_2910.jpeg.webp",
+      "image": "assets/catalog/cold-spark-machine.webp"
+    },
+    {
+      "slug": "string-lighting",
+      "name": "String Lighting",
+      "categories": [
+        "lighting"
+      ],
+      "price": "$12.00",
+      "period": "1 day",
+      "url": "https://fireflyeventrentals.com/products/string-lighting",
+      "imageSource": "https://images.booqablecdn.com/w535/uploads/7c61adefd8c9c90708e663e05739a238/photo/photo/8261fb42-dc83-4bd8-bf67-9feb2e756a4c/1735918898-103284355720869-0036-0229/upload.webp",
+      "image": "assets/catalog/string-lighting.webp"
+    },
+    {
+      "slug": "string-bistro-lighting-white",
+      "name": "String Bistro Lighting (White)",
+      "categories": [
+        "lighting"
+      ],
+      "price": "$12.00",
+      "period": "1 day",
+      "url": "https://fireflyeventrentals.com/products/string-bistro-lighting-white",
+      "imageSource": "https://images.booqablecdn.com/w535/uploads/7c61adefd8c9c90708e663e05739a238/photo/photo/7bc2fbdd-c5dc-4749-a027-51bd23302538/1744826723-890092935964297-0135-0674/stlightbistrowh_white_bistro_lighting__53398.jpg.webp",
+      "image": "assets/catalog/string-bistro-lighting-white.webp"
+    },
+    {
+      "slug": "40-foot-extension-cord",
+      "name": "40 foot extension cord",
+      "categories": [
+        "lighting"
+      ],
+      "price": "$5.00",
+      "period": "1 day",
+      "url": "https://fireflyeventrentals.com/products/40-foot-extension-cord",
+      "imageSource": "https://images.booqablecdn.com/w535/uploads/7c61adefd8c9c90708e663e05739a238/photo/photo/9b105f2c-b60b-4e1b-a49c-29fdfb7246f5/southwire-general-purpose-cords-23568805-64_600.jpg.webp",
+      "image": "assets/catalog/40-foot-extension-cord.webp"
+    },
+    {
+      "slug": "propane-patio-heater",
+      "name": "Propane Patio Heater",
+      "categories": [
+        "lighting",
+        "decor"
+      ],
+      "price": "$30.00",
+      "period": "1 day",
+      "url": "https://fireflyeventrentals.com/products/propane-patio-heater",
+      "imageSource": "https://images.booqablecdn.com/w535/uploads/7c61adefd8c9c90708e663e05739a238/photo/photo/2105c2d1-287f-4660-83b2-51c251d78050/1709936236-921363802743928-0262-2802/09748711.jpg.webp",
+      "image": "assets/catalog/propane-patio-heater.webp"
+    },
+    {
+      "slug": "propane-tank",
+      "name": "propane tank",
+      "categories": [
+        "lighting"
+      ],
+      "price": "$20.00",
+      "period": "Fixed",
+      "url": "https://fireflyeventrentals.com/products/propane-tank",
+      "imageSource": "https://images.booqablecdn.com/w535/uploads/7c61adefd8c9c90708e663e05739a238/photo/photo/42e43bb6-f4c3-4867-b686-215fe8b5fe90/8100018-liquid-propane-tank-20lb-empty-barbecue-grilling-backyard__35920.png.webp",
+      "image": "assets/catalog/propane-tank.webp"
+    },
+    {
+      "slug": "granite-light-pole-base",
+      "name": "Granite Light Pole Base",
+      "categories": [
+        "lighting"
+      ],
+      "price": "$8.00",
+      "period": "1 day",
+      "url": "https://fireflyeventrentals.com/products/granite-light-pole-base",
+      "imageSource": "https://images.booqablecdn.com/w535/uploads/7c61adefd8c9c90708e663e05739a238/photo/photo/65d9a43d-f30a-405c-b8e4-289b0487dde5/1709002782-952892148186109-0036-7665/upload.webp",
+      "image": "assets/catalog/granite-light-pole-base.webp"
+    },
+    {
+      "slug": "flameless-candles",
+      "name": "Flameless Candles",
+      "categories": [
+        "lighting",
+        "decor"
+      ],
+      "price": "$1.50",
+      "period": "1 day",
+      "url": "https://fireflyeventrentals.com/products/flameless-candles",
+      "imageSource": "https://images.booqablecdn.com/w535/uploads/7c61adefd8c9c90708e663e05739a238/photo/photo/430ca41e-4922-49a6-acbc-07c93ab99f08/1743195547-372830362948111-0318-9320/51KlP4vaY8L.jpg.webp",
+      "image": "assets/catalog/flameless-candles.webp"
+    },
+    {
+      "slug": "fireplace-with-mantel",
+      "name": "Fireplace with mantel",
+      "categories": [
+        "lighting",
+        "backdrops",
+        "decor"
+      ],
+      "price": "$75.00",
+      "period": "1 day",
+      "url": "https://fireflyeventrentals.com/products/fireplace-with-mantel",
+      "imageSource": "https://images.booqablecdn.com/w535/uploads/7c61adefd8c9c90708e663e05739a238/photo/photo/71303c03-23af-4893-b339-cc8d99d3fdb1/1729354287-208600879785072-0010-2000/upload.jpeg.webp",
+      "image": "assets/catalog/fireplace-with-mantel.webp"
+    },
+    {
+      "slug": "black-120-round-linen",
+      "name": "Black 120'' Round Linen",
+      "categories": [
+        "table-linens"
+      ],
+      "price": "$10.00",
+      "period": "1 day",
+      "url": "https://fireflyeventrentals.com/products/black-120-round-linen",
+      "imageSource": "https://images.booqablecdn.com/w535/uploads/7c61adefd8c9c90708e663e05739a238/photo/photo/957e4244-7d63-41fc-9f93-558b74e58523/1735917023-253868351244871-0002-6419/upload.webp",
+      "image": "assets/catalog/black-120-round-linen.webp"
+    },
+    {
+      "slug": "black-90-x132-banquet-linens",
+      "name": "Black 90''x132'' Banquet Linens",
+      "categories": [
+        "table-linens"
+      ],
+      "price": "$10.00",
+      "period": "1 day",
+      "url": "https://fireflyeventrentals.com/products/black-90-x132-banquet-linens",
+      "imageSource": "https://images.booqablecdn.com/w535/uploads/7c61adefd8c9c90708e663e05739a238/photo/photo/e498c225-d715-4260-a761-158ffe16b81f/1715392911-787898657170198-0096-7689/blacks-la-linen-tablecloths-tcpop90x132-blackp24-64_600.jpg.webp",
+      "image": "assets/catalog/black-90-x132-banquet-linens.webp"
+    },
+    {
+      "slug": "black-60-x-102-rectangle-linen",
+      "name": "Black 60 x 102  Rectangle Linen",
+      "categories": [
+        "table-linens"
+      ],
+      "price": "$10.00",
+      "period": "1 day",
+      "url": "https://fireflyeventrentals.com/products/black-60-x-102-rectangle-linen",
+      "imageSource": "https://images.booqablecdn.com/w535/uploads/7c61adefd8c9c90708e663e05739a238/photo/photo/d5ba669e-7a69-4b3f-b0e7-44d370048059/upload.webp",
+      "image": "assets/catalog/black-60-x-102-rectangle-linen.webp"
+    },
+    {
+      "slug": "black-32-spandex-cocktail-linen",
+      "name": "Black 32'' Spandex Cocktail Linen",
+      "categories": [
+        "table-linens"
+      ],
+      "price": "$7.00",
+      "period": "1 day",
+      "url": "https://fireflyeventrentals.com/products/black-32-spandex-cocktail-linen",
+      "imageSource": "https://images.booqablecdn.com/w535/uploads/7c61adefd8c9c90708e663e05739a238/photo/photo/e8efc67b-edcc-4bca-82b5-f8826d6a7396/1722536603-532155866301915-0032-1082/018hbas30018hbas36_1000.jpg.webp",
+      "image": "assets/catalog/black-32-spandex-cocktail-linen.webp"
+    },
+    {
+      "slug": "black-6-spandex-rectangle-linen",
+      "name": "Black 6' Spandex Rectangle Linen",
+      "categories": [
+        "table-linens"
+      ],
+      "price": "$7.00",
+      "period": "1 day",
+      "url": "https://fireflyeventrentals.com/products/black-6-spandex-rectangle-linen",
+      "imageSource": "https://images.booqablecdn.com/w535/uploads/7c61adefd8c9c90708e663e05739a238/photo/photo/e5328822-8f79-4baf-9274-1692cd65c04c/1722565881-294561323355296-0001-1855/Open-Back-Stretch-Spandex-Table-Cover-6-Foot-Rectangular-Royal-Black-Side.jpg.webp",
+      "image": "assets/catalog/black-6-spandex-rectangle-linen.webp"
+    },
+    {
+      "slug": "white-132-round-linens",
+      "name": "White 132'' Round Linens",
+      "categories": [
+        "table-linens"
+      ],
+      "price": "$13.00",
+      "period": "1 day",
+      "url": "https://fireflyeventrentals.com/products/white-132-round-linens",
+      "imageSource": "https://images.booqablecdn.com/w535/uploads/7c61adefd8c9c90708e663e05739a238/photo/photo/e844bb6c-443b-4049-bce2-ed4728b8de92/1720899458-770982279472643-0103-3669/Economy-Polyester-Round-Tablecloth-White.jpg.webp",
+      "image": "assets/catalog/white-132-round-linens.webp"
+    },
+    {
+      "slug": "white-120-round-linen",
+      "name": "White 120\" Round Linen",
+      "categories": [
+        "table-linens"
+      ],
+      "price": "$10.00",
+      "period": "1 day",
+      "url": "https://fireflyeventrentals.com/products/white-120-round-linen",
+      "imageSource": "https://images.booqablecdn.com/w535/uploads/7c61adefd8c9c90708e663e05739a238/photo/photo/27c19e5a-f8e5-4dd5-9e79-70d69c747017/1707757341-845550377304335-0029-1138/51MKoOCJA%2BL.jpg.webp",
+      "image": "assets/catalog/white-120-round-linen.webp"
+    },
+    {
+      "slug": "white-108-round-linen",
+      "name": "White 108\" Round Linen",
+      "categories": [
+        "table-linens"
+      ],
+      "price": "$10.00",
+      "period": "1 day",
+      "url": "https://fireflyeventrentals.com/products/white-108-round-linen",
+      "imageSource": "https://images.booqablecdn.com/w535/uploads/7c61adefd8c9c90708e663e05739a238/photo/photo/f254fa12-4b61-4dd7-aa9b-0e8646668a92/1716914685-329535495382809-0113-3153/TAB_108_WHT_POLY__02_1024x1024.jpg.webp",
+      "image": "assets/catalog/white-108-round-linen.webp"
+    },
+    {
+      "slug": "white-90-round-linen",
+      "name": "White 90\" Round Linen",
+      "categories": [
+        "table-linens"
+      ],
+      "price": "$8.00",
+      "period": "1 day",
+      "url": "https://fireflyeventrentals.com/products/white-90-round-linen",
+      "imageSource": "https://images.booqablecdn.com/w535/uploads/7c61adefd8c9c90708e663e05739a238/photo/photo/48073165-bb22-4cff-a491-d29ba6df7e4b/1732132114-625264379695112-0124-7996/Economy-Polyester-Table-Overlay-Topper-Tablecloth-90-inch-Round-White.jpg.webp",
+      "image": "assets/catalog/white-90-round-linen.webp"
+    },
+    {
+      "slug": "white-90-x132-rectangle-linens",
+      "name": "White 90''x132'' rectangle Linens",
+      "categories": [
+        "table-linens"
+      ],
+      "price": "$13.00",
+      "period": "1 day",
+      "url": "https://fireflyeventrentals.com/products/white-90-x132-rectangle-linens",
+      "imageSource": "https://images.booqablecdn.com/w535/uploads/7c61adefd8c9c90708e663e05739a238/photo/photo/3cb5244e-7598-4bc5-8ea8-e6ac33e93ade/1707757916-921878898851452-0036-6374/whites-la-linen-tablecloths-tcpop90x132-whitep11-64_1000.jpg.webp",
+      "image": "assets/catalog/white-90-x132-rectangle-linens.webp"
+    },
+    {
+      "slug": "white-60x102-rectangle-linen",
+      "name": "White 60x102 Rectangle Linen",
+      "categories": [
+        "table-linens"
+      ],
+      "price": "$10.00",
+      "period": "1 day",
+      "url": "https://fireflyeventrentals.com/products/white-60x102-rectangle-linen",
+      "imageSource": "https://images.booqablecdn.com/w535/uploads/7c61adefd8c9c90708e663e05739a238/photo/photo/caa12e7b-71c9-4116-af48-215f5067e529/1732132861-3709027337269-0090-2401/Efavormart-5pcs-of-White-60x102-Polyester-Rectangle-Tablecloths-Banquet-Linen-Wedding-Party-Restaurant-Tablecloth_2e__d221f9733f0426f6b983a1a0fb315592.jpeg.webp",
+      "image": "assets/catalog/white-60x102-rectangle-linen.webp"
+    },
+    {
+      "slug": "white-32-spandex-cocktail-linen",
+      "name": "White 32'' Spandex Cocktail Linen",
+      "categories": [
+        "table-linens"
+      ],
+      "price": "$7.00",
+      "period": "1 day",
+      "url": "https://fireflyeventrentals.com/products/white-32-spandex-cocktail-linen",
+      "imageSource": "https://images.booqablecdn.com/w535/uploads/7c61adefd8c9c90708e663e05739a238/photo/photo/bc2b9a7b-993d-466e-9cc3-b270d52c1a77/1710799409-241305197895660-0315-1097/30-inch-round-cocktail-spandex-tablecloth-white1__32593.1580158523.1280.1280.jpg.webp",
+      "image": "assets/catalog/white-32-spandex-cocktail-linen.webp"
+    },
+    {
+      "slug": "ivory-108-round-linen",
+      "name": "ivory 108\" round linen",
+      "categories": [
+        "table-linens"
+      ],
+      "price": "$10.00",
+      "period": "1 day",
+      "url": "https://fireflyeventrentals.com/products/ivory-108-round-linen",
+      "imageSource": "https://images.booqablecdn.com/w535/uploads/7c61adefd8c9c90708e663e05739a238/photo/photo/e68aec82-d3ab-40c1-b1bf-cff23885d147/1743768651-849748123236719-0020-5739/Round-Polyester-Tablecloth-Light-Ivory.jpg.webp",
+      "image": "assets/catalog/ivory-108-round-linen.webp"
+    },
+    {
+      "slug": "120-round-ivory-linens",
+      "name": "120'' Round Ivory Linens",
+      "categories": [
+        "table-linens"
+      ],
+      "price": "$10.00",
+      "period": "1 day",
+      "url": "https://fireflyeventrentals.com/products/120-round-ivory-linens",
+      "imageSource": "https://images.booqablecdn.com/w535/uploads/7c61adefd8c9c90708e663e05739a238/photo/photo/a2633f02-ee3f-4529-987a-24d3288c81ae/1732133275-140652631865106-0093-4586/41fSEInERKL.jpg.webp",
+      "image": "assets/catalog/120-round-ivory-linens.webp"
+    },
+    {
+      "slug": "ivory-linens-90x132",
+      "name": "Ivory Linens 90x132",
+      "categories": [
+        "table-linens"
+      ],
+      "price": "$13.00",
+      "period": "1 day",
+      "url": "https://fireflyeventrentals.com/products/ivory-linens-90x132",
+      "imageSource": "https://images.booqablecdn.com/w535/uploads/7c61adefd8c9c90708e663e05739a238/photo/photo/611c8e66-5241-4030-905c-6b0a69ff542e/1720899361-475087044073287-0102-9751/Rectangular-Oblong-Polyester-Tablecloth-Light-Ivory-Off-White.jpg.webp",
+      "image": "assets/catalog/ivory-linens-90x132.webp"
+    },
+    {
+      "slug": "60x102-ivory-linens",
+      "name": "60x102 Ivory Linens",
+      "categories": [
+        "table-linens"
+      ],
+      "price": "$10.00",
+      "period": "1 day",
+      "url": "https://fireflyeventrentals.com/products/60x102-ivory-linens",
+      "imageSource": "https://images.booqablecdn.com/w535/uploads/7c61adefd8c9c90708e663e05739a238/photo/photo/7fcc3c3b-5ad1-4b17-9296-ca3c456e26ee/51JaIaxLeSL-_AC_UF894_1000_QL80_.jpg.webp",
+      "image": "assets/catalog/60x102-ivory-linens.webp"
+    },
+    {
+      "slug": "white-5-x30-sheer-drapes",
+      "name": "White 5'x30' Sheer Drapes",
+      "categories": [
+        "table-linens",
+        "decor"
+      ],
+      "price": "$10.00",
+      "period": "1 day",
+      "url": "https://fireflyeventrentals.com/products/white-5-x30-sheer-drapes",
+      "imageSource": "https://images.booqablecdn.com/w535/uploads/7c61adefd8c9c90708e663e05739a238/photo/photo/93321c0f-ec9e-4e78-9b40-584de246cda5/81gSV5o7uNL-_AC_UF894_1000_QL80_.jpg.webp",
+      "image": "assets/catalog/white-5-x30-sheer-drapes.webp"
+    },
+    {
+      "slug": "black-108-round-inch-linen",
+      "name": "Black 108 round inch linen",
+      "categories": [
+        "table-linens"
+      ],
+      "price": "$10.00",
+      "period": "1 day",
+      "url": "https://fireflyeventrentals.com/products/black-108-round-inch-linen",
+      "imageSource": "https://images.booqablecdn.com/w535/uploads/7c61adefd8c9c90708e663e05739a238/photo/photo/0687418d-b31b-49a3-bf25-aaba759d17a7/upload.webp",
+      "image": "assets/catalog/black-108-round-inch-linen.webp"
+    },
+    {
+      "slug": "pipe-and-drape",
+      "name": "Pipe and Drape",
+      "categories": [
+        "backdrops",
+        "decor"
+      ],
+      "price": "$35.00",
+      "period": "1 day",
+      "url": "https://fireflyeventrentals.com/products/pipe-and-drape",
+      "imageSource": "https://images.booqablecdn.com/w535/uploads/7c61adefd8c9c90708e663e05739a238/photo/photo/d5e8140c-4385-4da2-9e08-3e7b029df726/1741666615-700094941811249-0049-5160/upload.jpeg.webp",
+      "image": "assets/catalog/pipe-and-drape.webp"
+    },
+    {
+      "slug": "6-drape-backdrop",
+      "name": "white Drape Backdrop",
+      "categories": [
+        "backdrops"
+      ],
+      "price": "$84.00",
+      "period": "1 day",
+      "url": "https://fireflyeventrentals.com/products/6-drape-backdrop",
+      "imageSource": "https://images.booqablecdn.com/w535/uploads/7c61adefd8c9c90708e663e05739a238/photo/photo/6bf70726-110a-4b3a-965a-88f1fb5ba33f/1745604778-188001889345070-0012-4159/upload.jpeg.webp",
+      "image": "assets/catalog/6-drape-backdrop.webp"
+    },
+    {
+      "slug": "square-arch",
+      "name": "Square Arch",
+      "categories": [
+        "backdrops"
+      ],
+      "price": "$40.00",
+      "period": "1 day",
+      "url": "https://fireflyeventrentals.com/products/square-arch",
+      "imageSource": "https://images.booqablecdn.com/w535/uploads/7c61adefd8c9c90708e663e05739a238/photo/photo/7f338eaa-bb96-4c42-a82f-98471185ae5e/1709003703-277069259391056-0041-6441/upload.jpeg.webp",
+      "image": "assets/catalog/square-arch.webp"
+    },
+    {
+      "slug": "rotan-arch-backdrop",
+      "name": "Rattan Arch Backdrop",
+      "categories": [
+        "backdrops"
+      ],
+      "price": "$100.00",
+      "period": "1 day",
+      "url": "https://fireflyeventrentals.com/products/rotan-arch-backdrop",
+      "imageSource": "https://images.booqablecdn.com/w535/uploads/7c61adefd8c9c90708e663e05739a238/photo/photo/d2088f9e-3ee6-4c66-8eeb-93d8c336681d/bd0f6023-80e9-4726-b022-401f6df00f5d.png.webp",
+      "image": "assets/catalog/rotan-arch-backdrop.webp"
+    },
+    {
+      "slug": "gold-circle-arch",
+      "name": "Gold Circle Arch",
+      "categories": [
+        "backdrops",
+        "decor"
+      ],
+      "price": "$30.00",
+      "period": "1 day",
+      "url": "https://fireflyeventrentals.com/products/gold-circle-arch",
+      "imageSource": "https://images.booqablecdn.com/w535/uploads/7c61adefd8c9c90708e663e05739a238/photo/photo/be9bf02b-294c-4620-bf50-541e408ec86e/1715044191-15441008535635-0229-4740/Gold-Circle-Arch-Web.jpg.webp",
+      "image": "assets/catalog/gold-circle-arch.webp"
+    },
+    {
+      "slug": "wood-circle-arch",
+      "name": "Wood Circle Arch",
+      "categories": [
+        "backdrops"
+      ],
+      "price": "$45.00",
+      "period": "1 day",
+      "url": "https://fireflyeventrentals.com/products/wood-circle-arch",
+      "imageSource": "https://images.booqablecdn.com/w535/uploads/7c61adefd8c9c90708e663e05739a238/photo/photo/cba6e567-bbb4-4840-8cde-8fec5dda5d78/1715044281-370015952550675-0142-4841/upload.jpeg.webp",
+      "image": "assets/catalog/wood-circle-arch.webp"
+    },
+    {
+      "slug": "connect-4",
+      "name": "Connect 4",
+      "categories": [
+        "games"
+      ],
+      "price": "$25.00",
+      "period": "1 day",
+      "url": "https://fireflyeventrentals.com/products/connect-4",
+      "imageSource": "https://images.booqablecdn.com/w535/uploads/7c61adefd8c9c90708e663e05739a238/photo/photo/43eb2949-9229-47dd-a098-ad81850be081/10b6b22d-9f7c-437c-9b54-0b628bdeb089_1_201_a.jpeg.webp",
+      "image": "assets/catalog/connect-4.webp"
+    },
+    {
+      "slug": "cooler-on-wheels",
+      "name": "cooler on wheels",
+      "categories": [
+        "games",
+        "decor"
+      ],
+      "price": "$25.00",
+      "period": "1 day",
+      "url": "https://fireflyeventrentals.com/products/cooler-on-wheels",
+      "imageSource": "https://images.booqablecdn.com/w535/uploads/7c61adefd8c9c90708e663e05739a238/photo/photo/5e156888-9099-4a20-9ec5-385fa9bc7448/1747714128-852294379531735-0001-9803/upload.webp",
+      "image": "assets/catalog/cooler-on-wheels.webp"
+    },
+    {
+      "slug": "corn-hole",
+      "name": "Corn Hole",
+      "categories": [
+        "games"
+      ],
+      "price": "$25.00",
+      "period": "1 day",
+      "url": "https://fireflyeventrentals.com/products/corn-hole",
+      "imageSource": "https://images.booqablecdn.com/w535/uploads/7c61adefd8c9c90708e663e05739a238/photo/photo/d352d452-d893-4615-b2d9-9a8f989e20c0/1746201648-457813359491298-0048-9187/upload.jpeg.webp",
+      "image": "assets/catalog/corn-hole.webp"
+    },
+    {
+      "slug": "nerf-gun-party-pack",
+      "name": "Nerf Gun party pack",
+      "categories": [
+        "games"
+      ],
+      "price": "$50.00",
+      "period": "1 day",
+      "url": "https://fireflyeventrentals.com/products/nerf-gun-party-pack",
+      "imageSource": "https://images.booqablecdn.com/w535/uploads/7c61adefd8c9c90708e663e05739a238/photo/photo/58e035d0-b75c-49c6-847e-00c428b93e8f/1752711221-380262511258128-0057-9548/upload.jpeg.webp",
+      "image": "assets/catalog/nerf-gun-party-pack.webp"
+    },
+    {
+      "slug": "50-screen-tv",
+      "name": "50\" Screen TV",
+      "categories": [
+        "sound-system"
+      ],
+      "price": "$50.00",
+      "period": "1 day",
+      "url": "https://fireflyeventrentals.com/products/50-screen-tv",
+      "imageSource": "https://images.booqablecdn.com/w535/uploads/7c61adefd8c9c90708e663e05739a238/photo/photo/96dc80c1-b2d5-403d-aab5-5eec9eff333a/f669c15b-0ede-4ca4-934c-193fcf01ff28.png.webp",
+      "image": "assets/catalog/50-screen-tv.webp"
+    },
+    {
+      "slug": "sound-system",
+      "name": "sound system",
+      "categories": [
+        "sound-system"
+      ],
+      "price": "$35.00",
+      "period": "1 day",
+      "url": "https://fireflyeventrentals.com/products/sound-system",
+      "imageSource": "https://images.booqablecdn.com/w535/uploads/7c61adefd8c9c90708e663e05739a238/photo/photo/ea59cc90-266e-4242-91c0-661109cf7105/1725903561-51017119985467-0061-9558/upload.jpeg.webp",
+      "image": "assets/catalog/sound-system.webp"
+    },
+    {
+      "slug": "cooler-table",
+      "name": "Cooler Table",
+      "categories": [
+        "decor"
+      ],
+      "price": "$30.00",
+      "period": "1 day",
+      "url": "https://fireflyeventrentals.com/products/cooler-table",
+      "imageSource": "https://images.booqablecdn.com/w535/uploads/7c61adefd8c9c90708e663e05739a238/photo/photo/7aae9328-bad2-4193-b354-3df45567e48c/upload.jpeg.webp",
+      "image": "assets/catalog/cooler-table.webp"
+    },
+    {
+      "slug": "wood-decorative-rounds",
+      "name": "Wood Decorative Rounds",
+      "categories": [
+        "decor"
+      ],
+      "price": "$1.00",
+      "period": "1 day",
+      "url": "https://fireflyeventrentals.com/products/wood-decorative-rounds",
+      "imageSource": "https://images.booqablecdn.com/w535/uploads/7c61adefd8c9c90708e663e05739a238/photo/photo/11e938de-4449-470a-be60-3d9fbc0b7c84/1709004530-581465175004319-0029-6115/upload.jpeg.webp",
+      "image": "assets/catalog/wood-decorative-rounds.webp"
+    },
+    {
+      "slug": "welcome-to-our-wedding-wooden-sign",
+      "name": "Welcome to our Wedding Wooden Sign",
+      "categories": [
+        "decor"
+      ],
+      "price": "$10.00",
+      "period": "1 day",
+      "url": "https://fireflyeventrentals.com/products/welcome-to-our-wedding-wooden-sign",
+      "imageSource": "https://images.booqablecdn.com/w535/uploads/7c61adefd8c9c90708e663e05739a238/photo/photo/43813fd5-c1fd-4e18-88c5-925e2b4657d9/1715045810-512213966754419-0146-2699/upload.jpeg.webp",
+      "image": "assets/catalog/welcome-to-our-wedding-wooden-sign.webp"
+    },
+    {
+      "slug": "10-foot-red-carpet",
+      "name": "10 foot red carpet",
+      "categories": [
+        "decor"
+      ],
+      "price": "$15.00",
+      "period": "1 day",
+      "url": "https://fireflyeventrentals.com/products/10-foot-red-carpet",
+      "imageSource": "https://images.booqablecdn.com/uploads/7c61adefd8c9c90708e663e05739a238/photo/photo/6ee45b59-a44d-458b-b7f1-47db4cdd3ad9/81WbNeuaIjL_300x300.jpg",
+      "image": "assets/catalog/10-foot-red-carpet.jpg"
+    },
+    {
+      "slug": "stanchions-set-of-4",
+      "name": "Stanchions (Set of 4)",
+      "categories": [
+        "decor"
+      ],
+      "price": "$25.00",
+      "period": "1 day",
+      "url": "https://fireflyeventrentals.com/products/stanchions-set-of-4",
+      "imageSource": "https://images.booqablecdn.com/uploads/7c61adefd8c9c90708e663e05739a238/photo/photo/8bc5ba08-e1b2-410e-acd4-518d41203113/2a29c093-896a-4d66-910e-449126662582_4_5005_c.jpeg",
+      "image": "assets/catalog/stanchions-set-of-4.jpeg"
+    },
+    {
+      "slug": "wood-grain-cooler-on-wheels",
+      "name": "wood grain cooler on wheels",
+      "categories": [
+        "decor"
+      ],
+      "price": "$25.00",
+      "period": "1 day",
+      "url": "https://fireflyeventrentals.com/products/wood-grain-cooler-on-wheels",
+      "imageSource": "https://images.booqablecdn.com/uploads/7c61adefd8c9c90708e663e05739a238/photo/photo/9027db33-c2f3-43b0-860b-9413942e0ab2/upload.jpeg",
+      "image": "assets/catalog/wood-grain-cooler-on-wheels.jpeg"
+    },
+    {
+      "slug": "dark-gray-cooler-on-wheels",
+      "name": "Dark gray cooler on wheels",
+      "categories": [
+        "decor"
+      ],
+      "price": "$25.00",
+      "period": "1 day",
+      "url": "https://fireflyeventrentals.com/products/dark-gray-cooler-on-wheels",
+      "imageSource": "https://images.booqablecdn.com/uploads/7c61adefd8c9c90708e663e05739a238/photo/photo/787c2929-c4c2-435d-bd58-472ae6c4d481/upload.jpeg",
+      "image": "assets/catalog/dark-gray-cooler-on-wheels.jpeg"
+    },
+    {
+      "slug": "trash-cans-32-gallon",
+      "name": "Trash Cans - 32 Gallon",
+      "categories": [
+        "decor"
+      ],
+      "price": "$15.00",
+      "period": "1 day",
+      "url": "https://fireflyeventrentals.com/products/trash-cans-32-gallon",
+      "imageSource": "https://images.booqablecdn.com/w535/uploads/7c61adefd8c9c90708e663e05739a238/photo/photo/064ebe00-7d66-441f-acaa-981c078d7e32/6a300435-c31e-41af-909a-117412da6c97_1-6ddcb51558882d99df290c3b18221899.jpeg.webp",
+      "image": "assets/catalog/trash-cans-32-gallon.webp"
+    }
+  ]
+};
